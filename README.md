@@ -1,4 +1,4 @@
-<a href="https://www.bilibili.com/video/BV15a411F7Sp"><img src="https://img.shields.io/badge/%E6%AD%A3%E7%82%B9%E5%8E%9F%E5%AD%90-%E5%8A%9F%E8%83%BD%E6%BC%94%E7%A4%BA-brightgreen"></a> <a href="https://www.bilibili.com/video/av70434587"><img src="https://img.shields.io/badge/%E5%88%9B%E6%84%8F%E6%97%B6%E9%92%9F-%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA-yellowgreen"></a>
+<a href="https://www.bilibili.com/video/BV15a411F7Sp" target="_blank"><img src="https://img.shields.io/badge/%E6%AD%A3%E7%82%B9%E5%8E%9F%E5%AD%90-%E5%8A%9F%E8%83%BD%E6%BC%94%E7%A4%BA-brightgreen"></a> <a href="https://www.bilibili.com/video/av70434587" target="_blank"><img src="https://img.shields.io/badge/%E5%88%9B%E6%84%8F%E6%97%B6%E9%92%9F-%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA-yellowgreen"></a>
 
 # 创意时钟
 
